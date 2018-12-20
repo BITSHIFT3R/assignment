@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="yes">Yes</string>
+    <string name="no">No thanks</string>
+    <string name="location_permission_title">Location Permission</string>
+    <string name="location_permission_message">Hi there! We can\'t get Near By Location without location permission, could you please grant it?</string>
+    <string name="gps_permission_title">Turn On GPS</string>
+    <string name="gps_permission_message">Hi there! Please turn on GPS to detect current location.</string>
+    <string name="retry">Retry</string>
+</resources>

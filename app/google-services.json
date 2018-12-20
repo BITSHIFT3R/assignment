@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "365399061947",
+    "firebase_url": "https://technobrix-assignment.firebaseio.com",
+    "project_id": "technobrix-assignment",
+    "storage_bucket": "technobrix-assignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365399061947:android:5c9d2a4c3f1e0398",
+        "android_client_info": {
+          "package_name": "project.com.assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365399061947-e6tusmmou0dkfsr2orgp0umvjij0daih.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "project.com.assignment",
+            "certificate_hash": "4c335d2756167cb8b6c4b2762d384c33186390a5"
+          }
+        },
+        {
+          "client_id": "365399061947-r1iv7qv0oilsk2jbta46kta4t9770l7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqj_OKCnfo6wGmHLlz8-yBrA7gUHibc_I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365399061947-r1iv7qv0oilsk2jbta46kta4t9770l7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
